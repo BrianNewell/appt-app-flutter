@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "268161625633",
+    "firebase_url": "https://newell-appt-app.firebaseio.com",
+    "project_id": "newell-appt-app",
+    "storage_bucket": "newell-appt-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268161625633:android:627a5481760e5ba2",
+        "android_client_info": {
+          "package_name": "com.briannewell.appt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268161625633-42b7g5aq4mjpleg1m8up7qbbdik0646s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.briannewell.appt_app",
+            "certificate_hash": "c7386c33e3a69e1059f8f4d940003e0b4ad1539f"
+          }
+        },
+        {
+          "client_id": "268161625633-bnhd22d131ghnpbkcmcgj2uhmofijou2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcmcEI34VS7HM1SlKnC6ubBT6gkJGHMzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268161625633-bnhd22d131ghnpbkcmcgj2uhmofijou2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268161625633-gs9eivpq9fk7ha6gss852ouc01ui0g8d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.briannewell.apptApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
