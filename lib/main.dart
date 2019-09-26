@@ -34,6 +34,7 @@ class MainApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Appt App',
         theme: new ThemeData(
           primaryColor: Colors.white,

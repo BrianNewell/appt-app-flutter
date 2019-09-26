@@ -70,7 +70,7 @@ class LandingPageBody extends StatelessWidget {
         return Container(
           padding: EdgeInsets.only(top: 10),
           child: CarouselSlider(
-            height: MediaQuery.of(context).size.height / 4,
+            height: MediaQuery.of(context).size.height / 3,
             viewportFraction: .9,
             enlargeCenterPage: true,
             autoPlay: true,
