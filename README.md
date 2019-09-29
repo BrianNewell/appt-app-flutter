@@ -1,6 +1,6 @@
 # Mobile Appointment Application (Flutter POT)
 
-Proof-of-Technology (POT) based upon Google's Flutter and Dart programming languages, User Interface (UI) builder framework, and various development patterns.
+Proof-of-Technology (POT) based on Google's Flutter and Dart programming languages, User Interface (UI) builder framework, and various development patterns.
 
 Notable tools, technologies, and frameworks include:
 
